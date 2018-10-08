@@ -11,4 +11,5 @@
 
 
 - to check if this date is reserved or not, we can control in front-send
+- using postman to test mock data
 - can use jest unit test
